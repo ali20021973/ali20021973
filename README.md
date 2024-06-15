@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer and machine learning enthusiast from [Your City, Country].
+  Welcome to my GitHub profile! I'm a passionate developer and machine learning enthusiast.
 </p>
 
 ## Hi there 👋
