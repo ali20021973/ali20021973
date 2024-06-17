@@ -106,9 +106,5 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
- <img align="left" alt="my stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=AliHadhood&show_icons=true" />
- <img align="left" alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHadhood&layout=compact" /> 
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hadhood-ab343a240/). Let's create something amazing together! 🚀
